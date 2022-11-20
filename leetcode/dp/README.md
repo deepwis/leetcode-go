@@ -1,0 +1,23 @@
+Solutions using Dynamic Programing
+---
+
+- [22. Generate Parentheses](./22.go)
+- [45. Jump Game II](./45.go)
+- [55. Jump Game](./55.go)
+- [46. Permutations](./46.go)
+- [62. Unique Paths](./62.go)
+- [64. Minimum Path Sum](./64.go)
+- [70. Climbing Stairs](./70.go)
+- [72. Edit Distance](./72.go)
+- [78. Subsets](./78.go)
+- [96. Unique Binary Search Trees](./96.go)
+- [122. Best Time to Buy and Sell Stock II](./122.go)
+- [128. Longest Consecutive Sequence](./128.go)
+- [131. Palindrome Partitioning](./131.go)
+- [198. House Robber](./198.go)
+- [300. Longest Increasing Subsequence](./300.go)
+- [322. Coin Change](./322.go)
+- [416. Partition Equal Subset Sum](./416.go)
+- [647. Palindromic Substrings](./647.go)
+- [718. Maximum Length of Repeated Subarray](./718.go)
+- [1143. Longest Common Subsequence](./1143.go)

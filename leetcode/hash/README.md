@@ -1,0 +1,22 @@
+Solutions using Hash Table
+---
+
+- [1. Two Sum](./1.go)
+- [13. Roman to Integer](./13.go)
+- [17. Letter Combinations of a Phone Number](./17.go)
+- [41. First Missing Positive](./41.go)
+- [49. Group Anagrams](./49.go)
+- [73. Set Matrix Zeroes](./73.go)
+- [76. Minimum Window Substring](./76.go)
+- [138. Copy List with Random Pointer](./138.go)
+- [139. Word Break](./139.go)
+- [141. Linked List Cycle](./141.go)
+- [142. Linked List Cycle II](./142.go)
+- [146. LRU Cache](./146.go)
+- [160. Intersection of Two Linked Lists](./160.go)
+- [169. Majority Element](./169.go)
+- [208. Implement Trie (Prefix Tree)](./208.go)
+- [287. Find the Duplicate Number](./287.go)
+- [347. Top K Frequent Elements](./347.go)
+- [383. Ransom Note](./383.go)
+- [560. Subarray Sum Equals K](./560.go)
